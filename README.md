@@ -1,4 +1,4 @@
-## Hi there I'm Castlewon 👋
+## Hi there, I'm Castlewon. 👋
 
 <!--
 **castlewon1022/castlewon1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
